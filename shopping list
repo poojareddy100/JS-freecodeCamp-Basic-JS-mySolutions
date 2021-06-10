@@ -1,0 +1,11 @@
+Problem link:
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/shopping-list
+
+SOLUTION:
+
+var myList = [];
+myList.push(["Coding",0]);
+myList.push(["in",1]);
+myList.push(["JS",2]);
+myList.push(["is",3]);
+myList.push(["Fun",4]);
